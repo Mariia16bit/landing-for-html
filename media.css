@@ -1,0 +1,53 @@
+@media(max-width: 575px){
+    .meny{
+        position: static;
+    }
+    .meny a{
+        width: 100%;
+        padding: 20px 0;
+    }
+    .header{
+        background-size: cover;
+        background-position: center center;
+        min-height: 300px;
+        padding: 100px 10px;
+        margin-top: 0;
+    }
+    #about-company img{
+        width: 90%;
+        margin: 10px;
+        float: none;
+    }
+    .p__wrapper{
+        width: 90%;
+        margin:0 auto;
+    }
+    .member{
+        min-width: 80%;
+        
+    }
+    .tarif{
+        width: 90%;
+    }
+    #contact input{
+        padding: 12px 8px;
+        margin: 5px 0;
+    }
+    #about-company p{
+        margin: 10px;
+        padding: 20px;
+    }
+    #color{
+        
+            margin: 10px;
+            padding: 20px;
+    }
+}
+
+
+@media(max-width: 1430px){
+    .p__wrapper{
+        
+        margin:30px;
+    }
+}
